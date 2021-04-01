@@ -1,0 +1,9 @@
+.TeztSize {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.disabled {
+  opacity: 0.65;
+  cursor: not-allowed;
+}

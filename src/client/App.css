@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+}
+.main {
+  margin: 20px;
+}
+
+.nextPrevBtn {
+  margin: 25px 5px;
+}
